@@ -11,7 +11,8 @@ let lives = 3;
 let correctguess = 0;
 let guessStr = "";
 
-function startGame() {
+function startGame()
+{
     score = 0;
     lives = 3;
     correctguess = 0;
@@ -68,6 +69,7 @@ function inputControl() {
         return 0;
     }
 }
+
 function showCharacters(guess) {
     if (guess === challengeInput)
         cards.forEach(card => card.classList.remove("hidden"));
@@ -77,13 +79,13 @@ function showCharacters(guess) {
         }
     });
 }
+
 function scoreCounter(result)
 {
-    if(result === 1){
+    if(result === 1)
         score += 20;
-    } else if(result === 2){
+    else if(result === 2)
         score = 100;
-    }
     scoreElement.textContent = score;
 }
 
@@ -105,18 +107,15 @@ function liveCounter(result)
 
 function endGame(won) {
     if (won)
-    {
         alert("Congratulations! You guessed the word!");
-    } else {
+    else
         alert("Game Over!");      
-    }
     submitBtn.classList.add("hidden");
-    restartBtn.classList.remove("hidden");  
+    restartBtn.classList.remove("hidden");
 }
 
 submitBtn.addEventListener("click", () => {
     const result = inputControl();
-
     if (result === 0 || result === 4)
         liveCounter(result);
     else if (result === 1 || result === 2)
