@@ -2,9 +2,8 @@ p.centered{
     text-indent: 3mm;
     text-align: center;
     text-shadow: 2px 2px #C9B2B2;
-    }
-p.centered img
-{
+}
+p.centered img{
     text-align: center;
     height: 15vh;
     text-shadow: 2px 2px #C9B2B2;
@@ -20,8 +19,7 @@ em{
     left: 10px;
     z-index: 1000;
 }   
-.icon
-{
+.icon{
     background-color: seashell;
     display: block;
     margin: 0 auto;
