@@ -1,5 +1,4 @@
-body
-{
+body{
     font-family: Arial, sans-serif;
     display: flex;
     justify-content: center;
@@ -8,17 +7,17 @@ body
     background-color: #D9CEC7;
     text-align: center;
 }
-#lives {
+#lives 
+{
     font-size: 14px;
     color: rgb(63, 4, 4);
 }
-#lives img {
+#lives img{
     width: 24px;
     height: 24px;
     margin-right: 1px;
 }
-h2
-{
+h2{
     font-size: 35px;
     font-weight: bold;
 }
@@ -76,9 +75,6 @@ button{
     text-align: center;
     background-color: #5D5C73;
     border-color: #A69292;
-}
-.button:hover {
-    background-color: #2c2e4e66;
 }
 .hidden {
     display: none;
