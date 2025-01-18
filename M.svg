@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   sodipodi:docname="M.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.55550267"
+     inkscape:cx="199.81902"
+     inkscape:cy="522.0497"
+     inkscape:window-width="1512"
+     inkscape:window-height="917"
+     inkscape:window-x="0"
+     inkscape:window-y="65"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Katman 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true">
+    <path
+       d="m 85.806454,193.77088 -19.42158,-77.19045 v 83.63676 q 0,6.94218 -3.14051,10.41328 -3.057866,3.47109 -8.181857,3.47109 -4.958702,0 -8.099213,-3.38845 -3.14051,-3.47109 -3.14051,-10.49592 v -95.86822 q 0,-7.933924 4.132251,-10.66121 4.132251,-2.80993 11.157078,-2.80993 h 7.603342 q 6.859536,0 9.917402,1.239675 3.140511,1.239675 4.628121,4.462831 1.487611,3.223156 3.388446,10.495914 l 17.603386,66.36396 17.60339,-66.36396 q 1.90084,-7.272758 3.38845,-10.495914 1.48761,-3.223156 4.54548,-4.462831 3.14051,-1.239675 10.00004,-1.239675 h 7.60334 q 7.02483,0 11.15708,2.80993 4.13225,2.727286 4.13225,10.66121 v 95.86822 q 0,6.94218 -3.14051,10.41328 -3.05786,3.47109 -8.2645,3.47109 -4.87606,0 -8.01657,-3.47109 -3.14051,-3.4711 -3.14051,-10.41328 v -83.63676 l -19.42158,77.19045 q -1.90083,7.5207 -3.14051,11.07443 -1.15703,3.47109 -4.38018,6.36367 -3.22316,2.89258 -8.92567,2.89258 -4.297537,0 -7.272758,-1.90084 -2.975221,-1.81819 -4.628121,-4.71077 -1.652901,-2.89257 -2.644641,-6.36366 -0.909095,-3.55374 -1.900836,-7.35541 z"
+       id="text1"
+       style="font-size:169.257px;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, Normal';fill:#2b0000;stroke-width:2.45489"
+       transform="scale(1.0268666,0.97383632)"
+       aria-label="M" />
+  </g>
+</svg>

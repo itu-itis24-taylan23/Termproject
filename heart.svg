@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   sodipodi:docname="heart.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.45398767"
+     inkscape:cx="210.35814"
+     inkscape:cy="610.14873"
+     inkscape:window-width="1512"
+     inkscape:window-height="945"
+     inkscape:window-x="0"
+     inkscape:window-y="37"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Katman 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g10"
+       transform="matrix(1.5567835,0,0,1.5567835,-58.462346,-8.8639443)"
+       style="fill:#aa0000">
+      <path
+         style="opacity:1;mix-blend-mode:normal;fill:#aa0000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         d="m 104.47114,101.0574 47.97175,47.97175 9.39322,-9.39323 c 13.28827,-13.28826 13.28827,-34.68348 0,-47.971749 -13.28826,-13.288262 -34.684,-13.288259 -47.97226,2e-6 z"
+         id="path8" />
+      <path
+         style="opacity:1;mix-blend-mode:normal;fill:#aa0000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         d="m 72.150117,81.697855 c -8.670952,-10e-7 -17.342001,3.322187 -23.986131,9.966318 -13.288262,13.288267 -13.288264,34.683487 -3e-6,47.971747 l 9.393228,9.39323 47.972259,-47.97175 -9.393218,-9.393226 C 89.492121,85.020043 80.821069,81.697857 72.150117,81.697855 Z"
+         id="rect7" />
+      <path
+         id="use7"
+         style="opacity:1;mix-blend-mode:normal;fill:#aa0000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         d="m 145.33062,-3.162237 -3.6e-4,67.842663 67.84266,-3.65e-4 V -3.162237 Z"
+         transform="rotate(45)" />
+    </g>
+  </g>
+</svg>

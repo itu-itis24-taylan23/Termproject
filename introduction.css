@@ -1,0 +1,79 @@
+p.centered{
+    text-indent: 3mm;
+    text-align: center;
+    text-shadow: 2px 2px #C9B2B2;
+    }
+p.centered img
+{
+    text-align: center;
+    height: 15vh;
+    text-shadow: 2px 2px #C9B2B2;
+}
+em{
+    font-family:'Franklin Gothic Medium'; 
+    font-size: 6mm;
+    font-weight: bold;
+    }
+.github-link {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    z-index: 1000;
+}   
+.icon
+{
+    background-color: seashell;
+    display: block;
+    margin: 0 auto;
+    width: 5cm;
+    height: 2cm;;
+    text-align: center;
+}
+.button-link {
+    padding: 10px 20px;
+    background-color: #390D02;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+}
+.button-link:hover {
+    background-color: #402E2F;
+}
+div.centered_l{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    height: 10vh;
+}
+div.centered_c{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:50vh;
+}
+.container{
+    text-align: center;
+    max-width: 900px;
+    padding: 20px;
+    background-color: seashell;
+    box-shadow: 0 4px 8px #402E2F;
+    border-radius: 10px;
+}
+.github-link {
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+}
+.github-link img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 2px solid #000;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.github-link:hover img {
+    border-color: #402E2F;
+}
+

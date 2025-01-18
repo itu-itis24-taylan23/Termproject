@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Word Prediction Game</title>
+    <link rel="stylesheet" href="prediction.css">
+</head>
+<body>
+    <div>
+        <h2>Word Prediction Game</h2>
+        <div class = card-container>
+            <div class="card">
+                <img src="N.svg" alt="N" class = "hidden">
+            </div>
+            <div class="card">
+                <img src="Y.svg" alt="Y" class = "hidden">
+            </div>
+            <div class="card">
+                <img src="M.svg" alt="M" class = "hidden">
+            </div>
+            <div class="card">
+                <img src="P.svg" alt="P" class = "hidden">
+            </div>
+            <div class="card">
+                <img src="H.svg" alt="H" class = "hidden">
+            </div>
+        </div>
+        <div class="input-container">
+            <input type="text" id="user-input" placeholder="Prediction">
+        </div>
+        <div class="info-container">
+            <p id="score-text">Score: <span id="score">0</span></p>
+            <p id="lives-text">Lives: <span id="lives">
+                <img src="heart.svg" id="heart1">
+                <img src="heart.svg" id="heart2">
+                <img src="heart.svg" id="heart3">
+            </span></p>            
+        </div>
+        <div class="button-container">
+            <button id="submit-btn">Submit</button>
+            <button id="restart-btn" class="hidden">Reset the Game</button>
+        </div>
+    </div>
+    <script src="./prediction.js"></script>
+</body>
+</html>

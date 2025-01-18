@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   sodipodi:docname="N.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.52656791"
+     inkscape:cx="306.70308"
+     inkscape:cy="537.44255"
+     inkscape:window-width="1512"
+     inkscape:window-height="945"
+     inkscape:window-x="0"
+     inkscape:window-y="37"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Katman 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true">
+    <path
+       d="M 74.182679,114.03308 124.42203,190.052 v -76.72279 q 0,-7.47872 3.16746,-11.17408 3.25544,-3.783351 8.7105,-3.783351 5.63103,0 8.88647,3.783351 3.25544,3.69536 3.25544,11.17408 v 101.44654 q 0,16.98108 -14.07758,16.98108 -3.51939,0 -6.33491,-1.05582 -2.81551,-0.96784 -5.27909,-3.16746 -2.46357,-2.19962 -4.57521,-5.10312 -2.11164,-2.99148 -4.22327,-6.07095 L 64.944268,141.22041 v 75.57899 q 0,7.39073 -3.431409,11.17408 -3.43141,3.78335 -8.798486,3.78335 -5.543046,0 -8.886471,-3.78335 -3.343425,-3.87134 -3.343425,-11.17408 v -99.51088 q 0,-6.33491 1.407758,-9.94229 1.671712,-3.95931 5.543046,-6.42289 3.871334,-2.551561 8.358562,-2.551561 3.519394,0 5.98297,1.143803 2.551561,1.143808 4.399243,3.079468 1.935667,1.93567 3.871334,5.01514 2.023652,3.07947 4.135289,6.42289 z"
+       id="text1"
+       style="font-size:180.193px;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, Normal';fill:#2b1100;stroke-width:2.61351"
+       transform="scale(1.1115441,0.89964942)"
+       aria-label="N" />
+  </g>
+</svg>

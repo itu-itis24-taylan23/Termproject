@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   sodipodi:docname="Y.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.54468236"
+     inkscape:cx="299.25698"
+     inkscape:cy="576.48278"
+     inkscape:window-width="1512"
+     inkscape:window-height="917"
+     inkscape:window-x="0"
+     inkscape:window-y="65"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Katman 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true">
+    <path
+       style="font-size:182.82px;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, Normal';fill:#2b0000;stroke-width:2.65161"
+       d="M 79.537384,218.9777 V 177.46827 L 47.57959,127.92477 q -4.195577,-6.69507 -5.980928,-10.44431 -1.696084,-3.74924 -1.696084,-6.51653 0,-4.55265 3.481435,-7.85555 3.570704,-3.302902 8.748223,-3.302902 5.445323,0 8.212618,3.124362 2.856562,3.0351 8.48042,12.22966 l 24.459318,39.72408 24.727118,-39.72408 q 2.23169,-3.65997 3.74924,-6.15946 1.51755,-2.49949 3.3029,-4.64192 1.87462,-2.23168 4.10631,-3.39216 2.23169,-1.160482 5.44532,-1.160482 4.99899,0 8.30189,3.302902 3.39217,3.21363 3.39217,7.49848 0,3.48143 -1.69609,6.96287 -1.69608,3.48143 -5.80239,9.6409 l -32.7612,50.25764 v 41.50943 q 0,8.12335 -3.74924,12.14039 -3.749241,4.01704 -9.551634,4.01704 -5.89166,0 -9.551631,-3.92777 -3.659971,-4.01704 -3.659971,-12.22966 z"
+       id="text1"
+       transform="scale(1.1277462,0.88672434)"
+       aria-label="Y" />
+  </g>
+</svg>
