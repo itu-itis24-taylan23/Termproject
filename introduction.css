@@ -20,12 +20,6 @@ em{
     left: 10px;
     z-index: 1000;
 }
-.linkedin-link{
-    position: fixed;
-    top: 70px;
-    left: 10px;
-    z-index: 1000;
-}
 .icon
 {
     background-color: seashell;
@@ -80,20 +74,5 @@ div.centered_c{
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 .github-link:hover img {
-    border-color: #402E2F;
-}
-.linkedin-link {
-    margin-right: 10px;
-    display: flex;
-    align-items: center;
-}
-.linkedin-link img {
-    width: 40px;
-    height: 40px;
-    border-radius: 50%;
-    border: 2px solid #000;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-}
-.linkedin-link:hover img {
     border-color: #402E2F;
 }
